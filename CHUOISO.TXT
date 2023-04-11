@@ -1,0 +1,3 @@
+Ket qua he 2: 1011111111010010
+Ket qua he 10: 49106
+Ket qua he 16: BFD2
